@@ -1,5 +1,6 @@
 # HBD Resale Prices Prediction Model App
 
+<!-- ABOUT THE PROJECT -->
 ## About The Project
 The goal of this project is to use web3 to create a frontend and truffle to set smart contract on Gancahe. 
 
